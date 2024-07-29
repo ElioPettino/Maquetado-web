@@ -1,0 +1,83 @@
+*
+{
+	font-family: 'Lobster', cursive;
+	font-weight: 100;
+}
+
+
+body
+{
+	background: black;
+	
+}
+
+h1
+{
+	color: #4682B4;
+	font-size: 3em;
+}
+
+h2
+{
+	color: #4682B4;
+}
+
+h3
+{
+	color: #4682B4;
+}
+
+h4
+{
+	color: #C0C0C0;
+}
+
+p
+{
+	color: #C0C0C0;
+}
+
+a
+{
+	color: red;
+	cursor: pointer;
+}
+
+.contenedor
+{
+	width: 700px;
+	height: 200px;
+	background: white;
+}
+
+.caja1
+{
+	width: 700px;
+	height: 100px;
+	background: lightblue;
+	transition: 1s;
+}
+
+.caja1:hover
+{
+	background: slateblue;
+	width: 800px;
+	height: 150px;
+	transition: 0.5s;
+}
+
+.caja2
+{
+	width: 700px;
+	height: 200px;
+	transition: 1s;
+	cursor: pointer;
+}
+
+.caja2:hover
+{
+	background: slateblue;
+	width: 800px;
+	height: 150px;
+	transition: 0.5s;
+}

@@ -1,0 +1,68 @@
+*
+{
+	font-family: 'Lobster', cursive;
+	font-weight: 100;
+}
+
+
+body
+{
+	background: black;
+	
+}
+
+h1
+{
+	color: #4682B4;
+	font-size: 3em;
+}
+
+h2
+{
+	color: #4682B4;
+}
+
+h3
+{
+	color: #4682B4;
+	font-size: 2.5em;
+}
+
+h4
+{
+	color: #C0C0C0;
+}
+
+p
+{
+	color: #C0C0C0;
+	font-size: 2em;
+}
+
+a
+{
+	color: #DC143C;
+}
+
+img
+{
+	width: 25em;
+	height: 30em;
+	object-fit: cover;
+}
+
+.alinear-izquierda
+{
+	float: left;
+}
+
+.romper-float{
+  clear: both;
+}
+
+img.alinear-izquierda
+{
+  padding: 0 10px 10px;
+}
+
+
